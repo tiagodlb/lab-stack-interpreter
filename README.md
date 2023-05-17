@@ -14,7 +14,7 @@ Many programming languages are compiled to an abstract machine compiled in stack
   - `stack` - print the entire stack
   - `popx` - remove the last element of the stack and saves it
   - `pushx` - pushs the saved data without argument
-  - 
+
 ### Example
 ```c
 > push 10
